@@ -153,10 +153,11 @@ This project helped me strengthen my foundation in **Data Science and Machine Le
 
 If you’d like to connect or discuss this project, feel free to reach out!
 
-🔗 **LinkedIn:** 
-📁 **GitHub:** 
+🔗 **LinkedIn:** www.linkedin.com/in/ayushmansinha10
+📁 **GitHub:** https://github.com/sinhaayushman-102006
 
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
+
 
